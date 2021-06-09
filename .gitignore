@@ -8,7 +8,6 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-build/
 develop-eggs/
 dist/
 downloads/
@@ -153,7 +152,8 @@ share/
 include/darknet/
 uselib
 uselib_track
-darknet
+build_release
+obj/
 
-darknet-nnpack.*
 predictions.jpg
+result.json
