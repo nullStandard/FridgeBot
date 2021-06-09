@@ -54,6 +54,7 @@ coverage.xml
 *.mo
 *.pot
 
+
 # Django stuff:
 *.log
 local_settings.py
@@ -158,3 +159,7 @@ obj/
 predictions.jpg
 result.json
 Bot/taken_image.jpg
+taken_image.jpg
+
+#Camera
+Camera/libraries
