@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 #config files
-.conf
-.ini
-.cfg
+*.conf
+*.ini
+*.cfg
